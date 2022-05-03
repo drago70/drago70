@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drago70
-- 👀 I’m interested in making the world a better place
+- 👀 I’m interested in cloud technologies
 - 🌱 I’m currently learning Python and AWS Core Services
 - 💞️ I’m looking to collaborate on various beginner projects
 
